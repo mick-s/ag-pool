@@ -1,0 +1,15 @@
+.white-bknd {
+	background-color: rgba(255, 255, 255, 0.7);
+	border-radius: 10px;
+}
+.background-color-container {
+	background-color: #429dd1;
+}
+.btn-primary {
+	background-color: #086ba6;
+	background-image: none;
+}
+.btn-primary:hover {
+	background-color: #96cded;
+	background-image: none;
+}
