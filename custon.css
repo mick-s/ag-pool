@@ -13,3 +13,12 @@
 	background-color: #96cded;
 	background-image: none;
 }
+@media only screen and (max-width: 991px) {
+  .mobile-space {
+  	margin-bottom: 25px;
+	}
+	.mobile-space-f {
+		margin-bottom: 50px;
+		text-align: center;
+	}
+}
